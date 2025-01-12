@@ -10,5 +10,5 @@
 
 依托 BenchMARL 环境实现算法，具体见 `my_cppo.py`、`my_ippo.py`、`my_mappo.py`。
 
-将其添加到 BenchMARL 环境中 `benchmarl/algorithms` 文件夹中并添加相关配置进行实验，可参考 https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb。
+将其添加到 BenchMARL 环境的 `benchmarl/algorithms` 文件夹中并添加相关配置进行实验，可参考 https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb 。
 
